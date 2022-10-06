@@ -1,7 +1,7 @@
 import requests
 import threading
 
-url = 'https://www.ilovefreesoftware.com/wp-admin/admin-ajax.php'
+url = ''
 
 data = {
     'form_fields[name]': 'urmother',
